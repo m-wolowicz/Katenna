@@ -1,0 +1,28 @@
+.navbar {
+	padding-top: 50px;
+    background: none;
+    color: black;
+    margin-bottom: -100px;
+    height: 60px;
+    padding-bottom: 50px;
+}
+
+.navbar-brand {
+	min-width: 200px;
+	padding: 0;
+	margin: 0;
+}
+#logo {
+	min-height: 50px;
+	padding: 0;
+	margin: 0;
+}
+
+.nav-item a {
+	color: white;
+    padding-left: 10px;
+}
+
+.navbar-toggler-icon {
+	color-interpolation-filters: sRGB;
+}
