@@ -2,22 +2,22 @@ import React from "react";
 import "./Features.css";
 
 const Features = () =>
-		<div className="container text-center">
+		<div className="container text-center features">
 			<div className="row text-center">
 				<div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 text-center">
-					<img src="http://via.placeholder.com/200x200" alt="Feature 1"/>
-					<h4>Feature #1</h4>
-					<p>Ut congue ut urna sit amet luctus. Duis iaculis libero ut scelerisque fringilla.</p>
+					<img src={process.env.PUBLIC_URL + '/img/taskManagement.svg'} alt="Feature 1"/>
+					<h4>Task Manager</h4>
+					<p>Manage, create, add, delete and edit tasks and their descriptions for all your employees easily.</p>
 				</div>
 				<div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 text-center">
-					<img src="http://via.placeholder.com/200x200" alt="Feature 2"/>
-					<h4>Feature #2</h4>
-					<p>Nunc ornare iaculis urna ac eleifend. Sed dignissim vulputate massa vel faucibus. </p>
+					<img src={process.env.PUBLIC_URL + '/img/chatBot.svg'} alt="Feature 2"/>
+					<h4>Chat Bot</h4>
+					<p>Chat bot available 24/7 to answer all your employees questions related to their task or your company.</p>
 				</div>
 				<div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 text-center">
-					<img src="http://via.placeholder.com/200x200" alt="Feature 3"/>
-					<h4>Feature #3</h4>
-					<p>Nullam sit amet tincidunt est. Duis eleifend fermentum enim, nec commodo nisl commodo at.</p>
+					<img src={process.env.PUBLIC_URL + '/img/mobile.svg'} alt="Feature 3"/>
+					<h4>Employee Portal</h4>
+					<p>Mobile Employee dashboard available 24/7 on the go. Secure employee login.</p>
 				</div>
 			</div>
 		</div>

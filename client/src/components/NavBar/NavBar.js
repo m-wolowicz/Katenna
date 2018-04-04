@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { NavHashLink as NavLink } from 'react-router-hash-link';
 import "./NavBar.css";
-import katennaWhite from '../../img/katennaWhite.svg';
 
 const NavBar = () =>
 	<nav className="navbar navbar-dark navbar-expand-lg">
 		<div className="container">
-			<Link className="navbar-brand" to="/">
-				<img src={katennaWhite} alt="KATENNA" id="logo" />
+			<Link className="navbar-brand" to="/home">
+				<img src={process.env.PUBLIC_URL + '/img/katennaWhite.svg'} alt="KATENNA" id="logo" />
 			</Link>
 			<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation" id="navMenuIcon">
 				<span className="navbar-toggler-icon"></span>
@@ -15,16 +15,16 @@ const NavBar = () =>
 			<div className="collapse navbar-collapse justify-content-end" id="navbarText">
 				<ul className="navbar-nav ">
 					<li className="nav-item">
-						<Link to="/">FEATURES</Link>
+						<NavLink smooth to="/home#featuresComponent">FEATURES</NavLink>
 					</li>
 					<li className="nav-item">
-						<Link to="/">DOWNLOAD</Link>
+						<NavLink smooth to="/home#downloadComponent">DOWNLOAD</NavLink>
 					</li>
 					<li className="nav-item">
-						<Link to="/">PRICING</Link>
+						<NavLink smooth to="/home">PRICING</NavLink>
 					</li>
 					<li className="nav-item">
-						<Link to="/">CONTACT</Link>
+						<NavLink smooth to="/">CONTACT</NavLink>
 					</li>
 				</ul>
 			</div>
