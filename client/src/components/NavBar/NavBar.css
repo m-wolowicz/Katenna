@@ -1,10 +1,10 @@
 .navbar {
-	padding-top: 50px;
+    padding-top: 60px;
     background: none;
     color: black;
-    margin-bottom: -100px;
+    margin-bottom: -120px;
     height: 60px;
-    padding-bottom: 50px;
+    padding-bottom: 60px;
 }
 
 .navbar-brand {
@@ -20,8 +20,10 @@
 
 .nav-item a {
 	color: white;
-	padding-left: 10px;
-	font-family: 'Open Sans', sans-serif;
+    padding-left: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    letter-spacing: 3px;
 }
 
 #navMenuIcon {
