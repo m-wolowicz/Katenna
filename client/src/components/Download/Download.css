@@ -5,16 +5,20 @@
 
 #downloadsColImg {
     overflow: hidden;
-    max-height: 400px;
+	max-height: 470px;
 }
 
 #downloadsColImg img {
-    max-height: 550px;
+	max-height: 700px;
+	
 }
 
 #downloadsColText {
+ margin-bottom: 100px;
+ margin-top: 50px;
 
 }
+
 
 #downloadsColText h5 {
 	font-family: 'Open Sans', sans-serif;
@@ -38,8 +42,4 @@
     font-size: 14px;
     color: rgba(50, 50, 50, 1);
     margin-bottom: 20px;
-}
-
-#downloadsColText button {
-
 }
