@@ -15,16 +15,16 @@ const NavBar = () =>
 			<div className="collapse navbar-collapse justify-content-end" id="navbarText">
 				<ul className="navbar-nav ">
 					<li className="nav-item">
-						<NavLink smooth to="/home#featuresComponent">FEATURES</NavLink>
+						<NavLink smooth to="/home#features">FEATURES</NavLink>
 					</li>
 					<li className="nav-item">
-						<NavLink smooth to="/home#downloadComponent">DOWNLOAD</NavLink>
+						<NavLink smooth to="/home#download">DOWNLOAD</NavLink>
 					</li>
 					<li className="nav-item">
-						<NavLink smooth to="/home">PRICING</NavLink>
+						<NavLink smooth to="/home#pricing">PRICING</NavLink>
 					</li>
 					<li className="nav-item">
-						<NavLink smooth to="/">CONTACT</NavLink>
+						<NavLink smooth to="/home#contact">CONTACT</NavLink>
 					</li>
 				</ul>
 			</div>
