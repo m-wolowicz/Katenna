@@ -64,9 +64,7 @@ Katenna is a combination of an Administrator Desktop Application (showcased in t
 ### Other Marketing Materials:
 
 <p align="center">
-  <img src="https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaBotRGB.svg" width="200px" alt="Katenna Bot"/>
   <img src="https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaBotYellowCircleRGB.svg" width="200px" alt="Katenna Bot" style="margin-left: 40px;margin-right: 40px;"/>
-  <img src="https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaBotYellowSquareRGB.svg" width="200px" alt="Katenna Bot"/>
 </p>
 
 <p align="center">
