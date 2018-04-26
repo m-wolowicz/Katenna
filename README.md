@@ -7,7 +7,7 @@ The training and development bot that provides ongoing support to employees, pre
 
 # Project Title:
 
-![alt text](https://katennamain.herokuapp.com/img/katennaBlack.svg "Katenna Logo")
+![Katenna Logo](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaLogoBlack.svg "Katenna Logo")
 
 ## Live App:
 
