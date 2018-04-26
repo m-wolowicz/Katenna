@@ -39,9 +39,31 @@ Katenna is a combination of an Administrator Desktop Application (showcased in t
 
 - HTML, CSS, Favicon, Bootstrap 4, Bootstrap4's New Features: CARDS, Google Web Fonts, Javascript, jQuery, Popper.js, JSON, Package.JSON, Node.js, Express, Body Parser, React, React Router, React Router DOM, Prop Types, Passport, Passport Local, Mongoose, Exports Loader, React Modal, MongoDB, Axios, Babel, BCrypt, Validator, Webpack, JSON WebToken, Firebase, React Native, React Native Router Flux, React Native Global Props, Expo, GET and POST routes.
 
-### Final Product Screen Shot:
+![Technologies Used](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/WordCloud.png "Technologies Used")
 
+### Final Product Screen Shots:
+
+#### Mobile Application:
+
+![Mobile Application](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/iPhone.png "Mobile Application")
+
+#### Desktop Application:
+![Desktop Application](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/desktop.png "Desktop Application")
+
+#### Landing Page:
 ![Katenna Logo](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaApp.gif "Katenna Logo")
+
+### Other Marketing Materials:
+
+![Katenna Bot](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaBotRGB.svg "Katenna Bot")
+
+![Katenna Bot](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaBotYellowCircleRGB.svg "Katenna Bot")
+
+![Katenna Bot](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaBotYellowSquareRGB.svg "Katenna Bot")
+
+![Katenna Flyer](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaFlyer.png "Katenna Flyer")
+
+
 
 
 - - -
@@ -49,3 +71,5 @@ Katenna is a combination of an Administrator Desktop Application (showcased in t
 #### Copyright
 
 [Alexander Lizarraga](https://github.com/buddyeorl), [Charles Caldwell](https://github.com/ThoughtFool), [Mariela Pascual](https://github.com/mariela2p), [Melissa Wolowicz](https://github.com/m-wolowicz), [Rajat Narula](https://github.com/boyrajat)
+
+![Katenna Copyright](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/kFaviconBlack.svg "Katenna Copyright")
