@@ -78,8 +78,4 @@ Katenna is a combination of an Administrator Desktop Application (showcased in t
 
 [Alexander Lizarraga](https://github.com/buddyeorl), [Charles Caldwell](https://github.com/ThoughtFool), [Mariela Pascual](https://github.com/mariela2p), [Melissa Wolowicz](https://github.com/m-wolowicz), [Rajat Narula](https://github.com/boyrajat)
 
-
-
-<p align="center">
-  <img src="https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/kFaviconBlack.svg" width="100px" alt="Katenna Bot"/>
-</p>
+<img src="https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/kFaviconBlack.svg" width="50px" alt="Katenna Bot"/>
