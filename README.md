@@ -39,6 +39,11 @@ Katenna is a combination of an Administrator Desktop Application (showcased in t
 
 - HTML, CSS, Favicon, Bootstrap 4, Bootstrap4's New Features: CARDS, Google Web Fonts, Javascript, jQuery, Popper.js, JSON, Package.JSON, Node.js, Express, Body Parser, React, React Router, React Router DOM, Prop Types, Passport, Passport Local, Mongoose, Exports Loader, React Modal, MongoDB, Axios, Babel, BCrypt, Validator, Webpack, JSON WebToken, Firebase, React Native, React Native Router Flux, React Native Global Props, Expo, GET and POST routes.
 
+### Final Product Screen Shot:
+
+![Katenna Logo](https://github.com/m-wolowicz/Katenna/blob/master/server/static/img/KatennaApp.gif "Katenna Logo")
+
+
 - - -
 
 #### Copyright
